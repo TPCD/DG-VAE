@@ -1,6 +1,10 @@
-# DG-VAE-pytorch Project [Medialab LIACS leiden University](http://liacs.leidenuniv.nl/~pun/).
-The offical repository for our [Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2008.02520).
-Code is coming soon.
+# DG-VAE-pytorch Project
+
+The offical pytorch implementation for ACM MM paper [Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2008.02520).
+
+This project is supported by [Medialab LIACS leiden University](http://liacs.leidenuniv.nl/~pun/). 
+
+Code is coming soon. 
 
 If you find this code useful to your research, please cite the following paper.
 
