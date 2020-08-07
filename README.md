@@ -1,6 +1,6 @@
 # DG-VAE-pytorch Project
 
-The offical pytorch implementation for ACM MM paper [Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2008.02520).
+The offical pytorch implementation for ACM MM 2020 paper [Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2008.02520).
 
 This project is supported by [Medialab LIACS leiden University](http://liacs.leidenuniv.nl/~pun/). 
 
