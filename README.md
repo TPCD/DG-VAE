@@ -1,8 +1,6 @@
 # DG-VAE-pytorch Project
-
+By [Nan Pu](tpcd.github.io), [Wei Chen], [Yu Liu](https://homes.esat.kuleuven.be/~yliu/), [Erwin M. Bakker](https://www.universiteitleiden.nl/en/staffmembers/erwin-bakker/publications#tab-4) and [Michael S. Lew](http://liacs.leidenuniv.nl/~lewms/).
 The offical pytorch implementation for ACM MM 2020 paper [Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2008.02520).
-
-This project is supported by [Medialab LIACS leiden University](http://liacs.leidenuniv.nl/~pun/). 
 
 Code is coming soon. 
 
