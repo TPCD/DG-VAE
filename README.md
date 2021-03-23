@@ -6,12 +6,12 @@ Code is coming soon.
 
 If you find this code useful to your research, please cite the following paper.
 
-
-     @misc{pu2020dual,
-          title={Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification},
-          author={Nan Pu and Wei Chen and Yu Liu and Erwin M. Bakker and Michael S. Lew},
-          year={2020},
-          eprint={2008.02520},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
-          }
+```
+@inproceedings{pu2020dual,
+  title={Dual Gaussian-based Variational Subspace Disentanglement for Visible-Infrared Person Re-Identification},
+  author={Pu, Nan and Chen, Wei and Liu, Yu and Bakker, Erwin M and Lew, Michael S},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={2149--2158},
+  year={2020}
+}
+```
